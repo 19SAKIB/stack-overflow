@@ -1,0 +1,33 @@
+.home-container-1 {
+    width: 100%;
+    display: flex;
+}
+
+.chatbot-container {
+    position: fixed;
+    margin-top: 430px;
+    right: 50px;
+    padding: 10px;
+    background-color: rgba(113, 240, 240, 0.61);
+    color: black;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+
+
+}
+
+.chat-btn {
+    border: none;
+    background-color: rgba(113, 240, 240, 0.61);
+    cursor: pointer;
+    padding: 10px;
+    color: black;
+    font-weight: 600;
+
+}
+
+.chat-btn:hover {
+    background-color: rgba(113, 240, 240, 0.867);
+
+}

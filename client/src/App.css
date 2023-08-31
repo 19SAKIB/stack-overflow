@@ -1,0 +1,23 @@
+.home-container-1 {
+    min-height: 100vh;
+    min-width: 1000px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.home-container-2 {
+    max-width: 950px;
+    width: calc(100% - 100px);
+    border: 1px solid #d6d9d6;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 760px) {
+    .home-container-2 {
+        max-width: 100%;
+        width: 100%;
+    }
+}

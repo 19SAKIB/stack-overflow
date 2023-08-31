@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@material-ui/icons": "^4.11.3",
+    "react-simple-chatbot": "^0.6.1",
+    "semantic-ui-react": "^2.1.4"
+  }
+}
